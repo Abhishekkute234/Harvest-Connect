@@ -1,5 +1,3 @@
-![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/2cb4355f-c347-49ae-b100-5045f414efe8)
-
 # Farmer Management System
 
 ## Connecting Farmers. Nourishing Communities.
@@ -35,10 +33,6 @@ This farmer management system is a two-way platform that facilitates direct inte
 # Installation:
 
 ## Clone the repository:
-
-```
-https://github.com/Blacksujit/Farmer_management_system.git
-```
 
 ```
 pip install flask
